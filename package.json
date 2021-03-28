@@ -1,0 +1,7 @@
+{
+    "name": "paint_application",
+    "description": "a paint application mandatory assignment",
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}

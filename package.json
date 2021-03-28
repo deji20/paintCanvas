@@ -3,5 +3,8 @@
     "description": "a paint application mandatory assignment",
     "dependencies": {
         "express": "4.17.1"
+    },
+    "scripts":{
+        "start": "node app.js"
     }
 }
